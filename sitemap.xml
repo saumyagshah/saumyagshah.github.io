@@ -18,18 +18,8 @@
   </url>
   
   <url>
-    <loc>https://saumyagshah.github.io/talk/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://saumyagshah.github.io/talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://saumyagshah.github.io/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -39,41 +29,7 @@
   </url>
   
   <url>
-    <loc>https://saumyagshah.github.io/publication_types/3/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://saumyagshah.github.io/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://saumyagshah.github.io/authors/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://saumyagshah.github.io/publication_types/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://saumyagshah.github.io/publication/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://saumyagshah.github.io/tags/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://saumyagshah.github.io/tags/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -100,34 +56,6 @@
   </url>
   
   <url>
-    <loc>https://saumyagshah.github.io/tags/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://saumyagshah.github.io/tags/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://saumyagshah.github.io/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://saumyagshah.github.io/project/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://saumyagshah.github.io/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://saumyagshah.github.io/tags/academic/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -139,31 +67,17 @@
   </url>
   
   <url>
-    <loc>https://saumyagshah.github.io/publication_types/2/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <loc>https://saumyagshah.github.io/tags/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://saumyagshah.github.io/publication/journal-article/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <loc>https://saumyagshah.github.io/project/internal-project/epflsemexproject/</loc>
   </url>
   
   <url>
-    <loc>https://saumyagshah.github.io/authors/robert-ford/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://saumyagshah.github.io/publication_types/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://saumyagshah.github.io/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>https://saumyagshah.github.io/project/internal-project/auquan/</loc>
   </url>
   
   <url>
@@ -173,6 +87,77 @@
   
   <url>
     <loc>https://saumyagshah.github.io/courses/</loc>
+  </url>
+  
+  <url>
+    <loc>https://saumyagshah.github.io/project/internal-project/summerepfl/</loc>
+  </url>
+  
+  <url>
+    <loc>https://saumyagshah.github.io/project/internal-project/cs771xproject/</loc>
+  </url>
+  
+  <url>
+    <loc>https://saumyagshah.github.io/project/internal-project/jsoc/</loc>
+  </url>
+  
+  <url>
+    <loc>https://saumyagshah.github.io/project/internal-project/kritsnam/</loc>
+  </url>
+  
+  <url>
+    <loc>https://saumyagshah.github.io/tags/ml-for-education/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saumyagshah.github.io/tags/machine-learning/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saumyagshah.github.io/project/internal-project/summer2018project/</loc>
+  </url>
+  
+  <url>
+    <loc>https://saumyagshah.github.io/tags/other/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saumyagshah.github.io/tags/probabilistic-ml/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saumyagshah.github.io/project/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saumyagshah.github.io/publication_types/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saumyagshah.github.io/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>https://saumyagshah.github.io/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://saumyagshah.github.io/tags/robotics/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saumyagshah.github.io/project/internal-project/ugp4thsem/</loc>
+  </url>
+  
+  <url>
+    <loc>https://saumyagshah.github.io/project/internal-project/cs698xproject/</loc>
   </url>
   
 </urlset>
