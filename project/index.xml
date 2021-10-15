@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Saumya Shah</title>
+    <title>Projects on Saumya Gaurang Shah</title>
     <link>https://saumyagshah.github.io/project/</link>
-    <description>Recent content in Projects on Saumya Shah</description>
+    <description>Recent content in Projects on Saumya Gaurang Shah</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     
@@ -72,7 +72,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://saumyagshah.github.io/project/internal-project/kritsnam/</guid>
-      <description>&lt;p&gt;During this internship, I worked with Atlas Scientific pH, EC, DO and Temperature sensors. After exploring their working and physical principles, I integrated these sensors with Particle Electron Embedded Platform. This was done via mobile data(2G) to retrieve the data for the aforementioned sensors using Atlas Scientific EZO Circuits. Then, using this data, I proposed a regression technique to cut costs by establishing a relationship between the analog signals received from the sensors and their corresponding physical quantity.&lt;/p&gt;
+      <description>&lt;p&gt;During this internship, I worked with Atlas Scientific pH, Electrical Conductivity (EC), Dissolved Oxygen (DO), and Temperature sensors. After exploring their working and physical principles, I integrated these sensors with Particle Electron Embedded Platform. This was done via mobile data(2G) to retrieve the data for the aforementioned sensors using Atlas Scientific EZO Circuits. Then, using this data, I proposed a regression technique to cut costs by establishing a relationship between the analog signals received from the sensors and their corresponding physical quantity.&lt;/p&gt;
 </description>
     </item>
     
